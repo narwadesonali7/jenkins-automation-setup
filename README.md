@@ -168,7 +168,7 @@ Fill out the admin user setup form:
 
 - Username:sonali_narwade
 
-- Password: sonali@123
+- Password: sonali@7498
 
 - Full Name: Narwade SOnali
 

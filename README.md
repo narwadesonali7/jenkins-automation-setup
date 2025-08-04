@@ -6,6 +6,14 @@ Jenkins is a powerful open-source automation server that enables continuous inte
 
 ---
 
+
+## Architecture Overview
+The Jenkins server is deployed on an AWS EC2 instance running Ubuntu. Here's how the architecture is laid out:
+
+![ubuntu](imgs/architecture.png)
+
+---
+
 # Prerequisites
 
 - Before starting Jenkins installation, make sure your system meets the following requirements:

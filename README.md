@@ -34,8 +34,6 @@ The Jenkins server is deployed on an AWS EC2 instance running Ubuntu. Here's how
 
 - Java: Jenkins is written in Java, and the Java Development Kit (JDK) is required to run it
 
-- APT Package Manager: Used to install Jenkins and other dependencies on Ubuntu
-
 - Supported operating systems include:
 
 - Ubuntu

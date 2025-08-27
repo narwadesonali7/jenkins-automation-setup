@@ -150,6 +150,7 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 - Click Continue to proceed.
 
 ![ubuntu](imgs/customize-jenkins-2.png)
+
 ## Install Plugins
 - Choose Install suggested plugins for a quick start.
 

@@ -147,6 +147,7 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 ```
 - Copy the output and paste it into the Jenkins setup page in your browser.
+
 - Click Continue to proceed.
 
 ![ubuntu](imgs/customize-jenkins-2.png)

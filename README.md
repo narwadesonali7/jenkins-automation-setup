@@ -47,7 +47,7 @@ This step involves setting up a virtual machine in AWS that will host Jenkins.
 
 - Select AMI: Select the Ubuntu Server LTS version (latest available) as the Amazon Machine Image. 
 
-Jenkins works best on Ubuntu due to easy package management and community support.
+- Jenkins works best on Ubuntu due to easy package management and community support.
 
 - Instance Type: Choose t2.micro if you're eligible for the AWS free tier. This instance type includes 1 vCPU and 1 GB of memory, which is sufficient for basic Jenkins tasks.
 

@@ -213,7 +213,6 @@ Congratulations!  You’ve successfully installed and configured Jenkins on your
 Your Jenkins server is now up and running on port 8080, accessible through your public IP address. From here, you can start creating pipelines, integrate with version control systems like GitHub or GitLab, and automate your CI/CD processes with ease.
 
 This setup lays the foundation for powerful automation workflows that can streamline development, testing, and deployment in any project.
-
 If you face any issues, refer to Jenkins documentation or revisit each step for troubleshooting.
 
 #### Happy Automating with Jenkins! 🚀

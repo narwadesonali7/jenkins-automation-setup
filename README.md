@@ -66,6 +66,7 @@ This step involves setting up a virtual machine in AWS that will host Jenkins.
 ---
 ## Step 2: Install Java
 Java is essential for Jenkins to run.
+
 We will install OpenJDK 17, which is officially supported by Jenkins.
 
 Update system packages and install Java:
